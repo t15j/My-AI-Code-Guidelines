@@ -30,8 +30,8 @@ Die Konfiguration sollte aus drei Ebenen bestehen:
               │
               ▼
 ┌────────────────────────────┐
-│ Projektdokumentation        │
-│ README, docs, Architektur   │
+│ Projektdokumentation       │
+│ README, docs, Architektur  │
 └────────────────────────────┘
 ```
 
